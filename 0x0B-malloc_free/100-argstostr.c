@@ -22,7 +22,7 @@ q++;
 q++;
 }
 
-str = malloc(sizeof(char) * (q + 1));
+str = malloc(sizeof(char) * q + 1);
 
 if (str == NULL)
 return (NULL);
