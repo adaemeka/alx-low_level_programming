@@ -1,1 +1,1 @@
-Solutions to tasks on variadic functions
+Solutions to tasks on variadic functionssss
