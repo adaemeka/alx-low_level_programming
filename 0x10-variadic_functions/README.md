@@ -1,2 +1,1 @@
-Solutions to tasks on variadic functionssss
-ignore
+Solutions to tasks on variadic functions
